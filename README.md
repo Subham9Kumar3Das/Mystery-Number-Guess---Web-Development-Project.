@@ -51,10 +51,10 @@ Simply double-click on the `home.html` file or run it in your preferred web brow
 
 ## 📸 **Screenshots**
 
-![Welcome Screen]([https://your-image-link](https://i.postimg.cc/MZQcgjMZ/Screenshot-2024-09-23-at-19-19-38-Number-Guessing-Game.png))
+![Welcome Screen](https://i.postimg.cc/MZQcgjMZ/Screenshot-2024-09-23-at-19-19-38-Number-Guessing-Game.png)
 *Interactive welcome screen*
 
-![Game Interface]([https://your-image-link](https://i.postimg.cc/hvb5ftjJ/Screenshot-2024-09-23-at-19-20-00-Number-Guessing-Game.png))
+![Game Interface](https://i.postimg.cc/hvb5ftjJ/Screenshot-2024-09-23-at-19-20-00-Number-Guessing-Game.png)
 *Sleek game UI with number input and real-time feedback*
 
 ---
