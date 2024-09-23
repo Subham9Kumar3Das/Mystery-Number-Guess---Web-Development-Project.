@@ -26,7 +26,7 @@ Here’s a detailed and interactive **README** file for your GitHub project:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/guess-the-magic-number.git
+[git clone https://github.com/your-username/guess-the-magic-number.git](https://github.com/Subham9Kumar3Das/Mystery-Number-Guess---Web-Development-Project..git)
 ```
 
 ### 2. Navigate to the project folder
@@ -35,7 +35,7 @@ cd guess-the-magic-number
 ```
 
 ### 3. Open `index.html` in your browser
-Simply double-click on the `index.html` file or run it in your preferred web browser.
+Simply double-click on the `home.html` file or run it in your preferred web browser.
 
 ---
 
@@ -51,10 +51,10 @@ Simply double-click on the `index.html` file or run it in your preferred web bro
 
 ## 📸 **Screenshots**
 
-![Welcome Screen](https://your-image-link)
+![Welcome Screen]([https://your-image-link](https://i.postimg.cc/MZQcgjMZ/Screenshot-2024-09-23-at-19-19-38-Number-Guessing-Game.png))
 *Interactive welcome screen*
 
-![Game Interface](https://your-image-link)
+![Game Interface]([https://your-image-link](https://i.postimg.cc/hvb5ftjJ/Screenshot-2024-09-23-at-19-20-00-Number-Guessing-Game.png))
 *Sleek game UI with number input and real-time feedback*
 
 ---
@@ -79,13 +79,10 @@ Contributions are welcome! Feel free to submit a pull request or open an issue i
 
 ---
 
-## 📝 **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
 
 ### 🧑‍💻 **Author**
-- [Your Name](https://github.com/your-username)
+- [Subham Kumar Das](https://github.com/Subham9Kumar3Das)
 
 ---
 
